@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "0.0.2",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doaaalmuhaisen952/New.git"
+  },
+  "author": "Doaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doaaalmuhaisen952/New/issues"
+  },
+  "homepage": "https://github.com/doaaalmuhaisen952/New#readme",
+  "keywords": []
+}
